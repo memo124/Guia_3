@@ -1,0 +1,15 @@
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.exe
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.deps.json
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.runtimeconfig.json
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.dll
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\bin\Debug\net6.0\Ejercicio 4.pdb
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.AssemblyInfoInputs.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.AssemblyInfo.cs
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.dll
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\refint\Ejercicio 4.dll
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.pdb
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\Ejercicio 4.genruntimeconfig.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejercicio 4\obj\Debug\net6.0\ref\Ejercicio 4.dll

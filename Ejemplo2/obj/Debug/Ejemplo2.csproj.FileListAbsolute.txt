@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\bin\Debug\Ejemplo2.exe
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\bin\Debug\Ejemplo2.pdb
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.Form1.resources
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.exe
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Ejemplo2\obj\Debug\Ejemplo2.pdb

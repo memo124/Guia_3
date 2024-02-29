@@ -1,0 +1,12 @@
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\bin\Debug\Guia_unidad_3_24022024.exe.config
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\bin\Debug\Guia_unidad_3_24022024.exe
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\bin\Debug\Guia_unidad_3_24022024.pdb
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.Form1.resources
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.Properties.Resources.resources
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.exe
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.pdb
+D:\proyectos\proyectos en c#\Guia_unidad_3_24022024\Guia_unidad_3_24022024\obj\Debug\Guia_unidad_3_24022024.Form2.resources
